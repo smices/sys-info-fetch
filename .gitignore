@@ -1,0 +1,10 @@
+.DS_Store
+.codebase-memory/
+src/nimcache/
+*.nim.c
+*.nim.cpp
+*.nim.h
+*.o
+*.so
+*.dylib
+
